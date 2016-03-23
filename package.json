@@ -1,0 +1,26 @@
+{
+  "name": "lenient-babel-polyfill",
+  "version": "6.7.4",
+  "description": "Allows you to include multiple instances of babel-polyfill as long as they are compatible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/lenient-babel-polyfill.git"
+  },
+  "keywords": [
+    "babel",
+    "polyfill"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/lenient-babel-polyfill/issues"
+  },
+  "homepage": "https://github.com/exponentjs/lenient-babel-polyfill#readme",
+  "dependencies": {
+    "babel-polyfill": "6.7.4"
+  }
+}
